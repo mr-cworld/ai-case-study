@@ -2,25 +2,15 @@
 Week 1 Assignment
 
 
-# TITLE
+## **CNC Machining and AI: Walter Grinding**
 
 ## Overview and Origin
 
-* Name of company: I went with Walter Grinder, a CNC machinery producer.
-
-* When was the company incorporated? 1919 
-
-* Who are the founders of the company? Richard Walter
-
-* How did the idea for the company (or project) come about? I am familiar with their machines and was curious to see how AI is impacting machinery/embedded systems today. 
-
-* How is the company funded? How much funding have they received? Unclear but it has been around over 100 years and is a company that is part of a larger congolomerate United Grinding Group
+I was interested in seeing how durable good manufacturers were adapting with new AI technology so I went with a premium supplier, Walter Grinder, a CNC Machinery producer. They were incorporated in 1919 founded by Richard Walter and now are part of a larger manufacturing group United Grinding Group. I decided to choose this company because I have worked with these machines personally and know that they have a lot of higher end features for CNC machinery and am curious how they are innovating in the new age of AI. Company funding wasn't directly available on their website but they are part of a larger conglomberate United Grinding Group
 
 ## Business Activities
 
-* What specific problem is the company or project trying to solve? They solve the need of precision and efficiecy in CNC machining processes for a variety of applications. Typically, Metal manufacturing. 
-
-* Who is the company's intended customer? Is there any information about the market size of this set of customers? They sell B2B to other manufacturers. This could include Automotive, Medical, Aerospace, and 2nd tier suppliers in these industries. Hard to calculate but definitely a global business. 
+Walter Grinder solves the need of precision and efficiecy in CNC machining processes for a variety of applications. Typically, Metal manufacturing. They sell B2B to other manufacturers. This could include Automotive, Medical, Aerospace, and 2nd tier suppliers in these industries. Hard to calculate but definitely a global business. 
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?) They have a lot of patents in the space for actual machinery, have their own computer system as well as other peripherial software to accompany their machines. Another advantage is their length of tiem in the field that gives them a network effect from manufacturing plants already utilizing their previous generations of machines. 
 
@@ -60,8 +50,8 @@ In the future America will need technologial solutions to stay competitive in th
 
 ## Sources
 
-- CNC Industry Reports. (2023). *Global CNC Machine Market Surgers to $55.1 Billion*. From Yahoo Finance (https://finance.yahoo.com/news/global-cnc-machines-market-surges-110800932.html)
+- CNC Industry Reports. (2023). [*Global CNC Machine Market Surgers to $55.1 Billion*](https://finance.yahoo.com/news/global-cnc-machines-market-surges-110800932.html) From Yahoo Finance 
 
-- Walter Grinder Homepage. (2023). *General Company Information*. From Walter Grinder Official Website (https://www.walter-machines.com)
+- Walter Grinder Homepage. (2023). [*General Company Information*](https://www.walter-machines.com) From Walter Grinder Official Website 
 
--AI Working in CAD Environments (2024) *AI-Powered Text-to-CAD May Take Architecture to New Heights* (https://www.techopedia.com/ai-powered-text-to-cad-may-take-architecture-to-new-heights)
+-AI Working in CAD Environments (2024) [*AI-Powered Text-to-CAD May Take Architecture to New Heights*](https://www.techopedia.com/ai-powered-text-to-cad-may-take-architecture-to-new-heights)
