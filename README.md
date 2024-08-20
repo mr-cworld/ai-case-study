@@ -12,29 +12,28 @@ Week 1 Assignment
 
 * Walter Grinder solves the need of precision and efficiecy in CNC machining processes for a variety of applications. Typically, Metal manufacturing. They sell B2B to other manufacturers. This could include Automotive, Medical, Aerospace, and 2nd tier suppliers in these industries. Hard to calculate but definitely a global business. 
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?) They have a lot of patents in the space for actual machinery, have their own computer system as well as other peripherial software to accompany their machines. Another advantage is their length of tiem in the field that gives them a network effect from manufacturing plants already utilizing their previous generations of machines. 
+* In terms of a competitive advantage - what they can offer that others cannot, relys on their ecosystem moat similar to Apple's concept. They have a lot of patents in the space for actual machinery, have their own computer system as well as other peripherial software to accompany their machines. Another advantage is their length of time in the field that gives them a network effect from manufacturing plants already utilizing their previous generations of machines. 
 
-* Which technologies are they currently using, and how are they implementing them? The technologies they are currently using are similar to the Internet of Things (IoT) era of technology, with the machines being able to join local networks, retreive files, and understand CAD files and put them into CAM instructions to complete jobs. Additionally things like matienance, temperature and speed data is able to be fed from the machine back to central servers so that the management of a factory can know whats going on with their machinery. Currently it seems that they and the entire CNC machinery field is still behind in terms of implementing AI or any sort of machine learning. 
+* The technologies they are currently using are similar to the Internet of Things (IoT) era of technology, with the machines being able to join local networks, retreive files, and understand CAD files and put them into CAM instructions to complete jobs. Additionally things like matienance, temperature and speed data is able to be fed from the machine back to central servers so that the management of a factory can know whats going on with their machinery. Currently it seems that they and the entire CNC machinery field is still behind in terms of implementing AI or any sort of machine learning. 
 
 ## Landscape
 
-* What field is the company in? B2B Manufacturing
+* Walter Grinding is in the B2B Manufacturing industry. 
 
-* What have been the major trends and innovations of this field over the last 5 to 10 years? As said above the most recent trend for machinery is the IoT connection that allows information to be sent to and sent from the machines.
+* The most recent trend for machinery is the IoT connection that allows information to be sent to and sent from the machines.
 
-* What are the other major companies in this field? There are a ton of companies in this space including Maztak, Haas, Okuma, and Makino. I'll be going to IMTS 2024 in Chicago in a few weeks to see what the latest and greatest is in the field and will be very curious to see exactly what they are doing for the future. 
+* From a competitor stand point there are a ton of companies in this space including Maztak, Haas, Okuma, and Makino. I'll be going to IMTS 2024 in Chicago in a few weeks to see what the latest and greatest is in the field and will be very curious to see exactly what they are doing for the future. All of these companies offer the same machine types (5-axis, lathe, precision grinding, inspection machines), similar to a Toyota and Honda situation - with operator preference and history with the brand being very important for future purchases.
 
 ## Results
 
-* What has been the business impact of this company so far? Being a little more broadstroke, the most immediate impact to manufacturing from AI pertains the CAD, or computer assisted design, aspects of manufacturing. Think photoshop for manufacturers. AI is able to take a design print from engineers and create that into a usable file for machines to be able to interpret and create.
+* Being a little more broadstroke, the most immediate impact to manufacturing from AI pertains the CAD, or computer assisted design, aspects of manufacturing. Think photoshop for manufacturers. AI is able to take a design print from engineers and create that into a usable file for machines to be able to interpret and create. Currently this is an expensive and moderately long process for companies to undertake, having AI assist in this creation lowers the bar and allows faster turnaround times when creating new products with customers. 
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics? 
-For machine Manufacturers, the most important factors are:
-    1. Machine Uptime - how reliable it is and how quickly it can go from one part to the next
-    2. Tool time - how quickly and precisely can the machine run? If your spindle can spin 100rpm faster it is then possible to cut faster and complete more parts per hour
-    3. Precision - some manufacturing has tolerance within 1 micron, or 1/100th of a human hair, machines that can hold these strict tolerances are sought after by top manufacturers in the medical or aerospace fields.
+*For machine Manufacturers, the most important factors are:
+*    1. Machine Uptime - how reliable it is and how quickly it can go from one part to the next
+*    2. Tool time - how quickly and precisely can the machine run? If your spindle can spin 100rpm faster it is then possible to cut faster and complete more parts per hour
+*    3. Precision - some manufacturing has tolerance within 1 micron, or 1/100th of a human hair, machines that can hold these strict tolerances are sought after by top manufacturers in the medical or aerospace fields.
 
-* How is your company performing relative to competitors in the same field? Overall I would say they are doing well, It is competitive relative to other manufacturers listed above. 
+* Relative to competitors in the field, I would say that Walter Grinding is doing well. They have stayed even with the market offerings and are positioned with IoT enabled machines for future advancements. 
 
 ## Recommendations
 
