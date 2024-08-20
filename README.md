@@ -6,11 +6,11 @@ Week 1 Assignment
 
 ## Overview and Origin
 
-I was interested in seeing how durable good manufacturers were adapting with new AI technology so I went with a premium supplier, Walter Grinder, a CNC Machinery producer. They were incorporated in 1919 founded by Richard Walter and now are part of a larger manufacturing group United Grinding Group. I decided to choose this company because I have worked with these machines personally and know that they have a lot of higher end features for CNC machinery and am curious how they are innovating in the new age of AI. Company funding wasn't directly available on their website but they are part of a larger conglomberate United Grinding Group
+* I was interested in seeing how durable good manufacturers were adapting with new AI technology so I went with a premium supplier, Walter Grinder, a CNC Machinery producer. They were incorporated in 1919 founded by Richard Walter and now are part of a larger manufacturing group United Grinding Group. I decided to choose this company because I have worked with these machines personally and know that they have a lot of higher end features for CNC machinery and am curious how they are innovating in the new age of AI. Company funding wasn't directly available on their website but they are part of a larger conglomberate United Grinding Group
 
 ## Business Activities
 
-Walter Grinder solves the need of precision and efficiecy in CNC machining processes for a variety of applications. Typically, Metal manufacturing. They sell B2B to other manufacturers. This could include Automotive, Medical, Aerospace, and 2nd tier suppliers in these industries. Hard to calculate but definitely a global business. 
+* Walter Grinder solves the need of precision and efficiecy in CNC machining processes for a variety of applications. Typically, Metal manufacturing. They sell B2B to other manufacturers. This could include Automotive, Medical, Aerospace, and 2nd tier suppliers in these industries. Hard to calculate but definitely a global business. 
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?) They have a lot of patents in the space for actual machinery, have their own computer system as well as other peripherial software to accompany their machines. Another advantage is their length of tiem in the field that gives them a network effect from manufacturing plants already utilizing their previous generations of machines. 
 
